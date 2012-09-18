@@ -48,7 +48,7 @@ That will expose the contents of the resources stored in package com.example.my.
 
   * Emiliano Lesende (@3miliano) - Rest Router Swagger UI (from where the static resource hosting code was taken)
   * Alberto Pose (@thepose) - Good Artists Borrow, Great Artists Steal
-(Add your name here!)
+  * (Add your name here!)
 
 # License
 Copyright 2012 MuleSoft, Inc.
