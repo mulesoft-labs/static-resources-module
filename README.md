@@ -7,7 +7,7 @@ The idea behind this module is to provide an easy way to host static resources.
 http://mulesoft.github.com/static-resources-module/mule/static-resources-config.html
 
 ## FAQ
-### Why do I need a static resources module if we can host the resources using HTTP Transport `static-resource-handler`?
+### Why not using HTTP Transport `static-resource-handler`?
 
   * I want to host resources that are packaged inside jar files. 
   * I don't want to polute a REST API with a docroot and files that will hardcode UI with Backend
@@ -18,10 +18,10 @@ handlers:
 - url: /stylesheets
   static_dir: stylesheets
   ```
-  in a near future it will be great that CloudHub detects the static files and host them separately (maybe upload the to S3 to then host them in CloudFront).
+  in a near future it will be great that CloudHub detects the static files and host them separately (maybe upload the to S3 / CloudFront).
 
 ### I have some XYZ requirement different than yours, can I contribute or add something to it?
-Yes, please! Add a pull request and we can go over.
+Yes, please! Add a pull request and we can go over it.
 
 # Usage
 
