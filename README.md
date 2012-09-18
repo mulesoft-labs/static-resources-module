@@ -45,8 +45,9 @@ That will expose the contents of the resources stored in package com.example.my.
 
 
 # Authors
-Emiliano Lesende (@3miliano) - Rest Router Swagger UI (from where the static resource hosting code was taken)
-Alberto Pose (@thepose) - Good Artists Borrow, Great Artists Steal
+
+  * Emiliano Lesende (@3miliano) - Rest Router Swagger UI (from where the static resource hosting code was taken)
+  * Alberto Pose (@thepose) - Good Artists Borrow, Great Artists Steal
 (Add your name here!)
 
 # License
