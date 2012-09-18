@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <parent>
+        <groupId>org.mule.tools.devkit</groupId>
+        <artifactId>mule-devkit-parent</artifactId>
+        <version>3.3.1</version>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.mule.modules</groupId>
+    <artifactId>mule-module-static-resources</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>mule-module</packaging>
+
+    <name>Mule Module Static Resources</name>
+    <description>Module to host static resources in Mule</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.mule.transports</groupId>
+            <artifactId>mule-transport-http</artifactId>
+            <version>${mule.version}</version>
+        </dependency>
+    </dependencies>
+
+    <scm>
+        <connection>scm:git:git://github.com:mulesoft/static-resources-module.git</connection>
+        <developerConnection>scm:git:git@github.com:mulesoft/static-resources-module.git</developerConnection>
+        <url>http://github.com/mulesoft/static-resources-module</url>
+    </scm>
+
+</project>

@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(static-resources:serve) -->
+<static-resources:serve basePackage="com/example/my/resource/path" defaultResource="hello.html" />
+<!-- END_INCLUDE(static-resources:serve) -->
