@@ -1,0 +1,27 @@
+var DATA = [
+      { id:0, label:"org.mule.module.staticresources", link:"java/org/mule/module/staticresources/package-summary.html", type:"package" },
+      { id:1, label:"org.mule.module.staticresources.StaticResourcesModule", link:"java/org/mule/module/staticresources/StaticResourcesModule.html", type:"class" },
+      { id:2, label:"org.mule.module.staticresources.adapters", link:"java/org/mule/module/staticresources/adapters/package-summary.html", type:"package" },
+      { id:3, label:"org.mule.module.staticresources.adapters.StaticResourcesModuleCapabilitiesAdapter", link:"java/org/mule/module/staticresources/adapters/StaticResourcesModuleCapabilitiesAdapter.html", type:"class" },
+      { id:4, label:"org.mule.module.staticresources.adapters.StaticResourcesModuleLifecycleAdapter", link:"java/org/mule/module/staticresources/adapters/StaticResourcesModuleLifecycleAdapter.html", type:"class" },
+      { id:5, label:"org.mule.module.staticresources.adapters.StaticResourcesModuleMetadataAdapater", link:"java/org/mule/module/staticresources/adapters/StaticResourcesModuleMetadataAdapater.html", type:"class" },
+      { id:6, label:"org.mule.module.staticresources.adapters.StaticResourcesModuleProcessAdapter", link:"java/org/mule/module/staticresources/adapters/StaticResourcesModuleProcessAdapter.html", type:"class" },
+      { id:7, label:"org.mule.module.staticresources.agents", link:"java/org/mule/module/staticresources/agents/package-summary.html", type:"package" },
+      { id:8, label:"org.mule.module.staticresources.agents.DefaultSplashScreenAgent", link:"java/org/mule/module/staticresources/agents/DefaultSplashScreenAgent.html", type:"class" },
+      { id:9, label:"org.mule.module.staticresources.config", link:"java/org/mule/module/staticresources/config/package-summary.html", type:"package" },
+      { id:10, label:"org.mule.module.staticresources.config.AbstractDefinitionParser", link:"java/org/mule/module/staticresources/config/AbstractDefinitionParser.html", type:"class" },
+      { id:11, label:"org.mule.module.staticresources.config.AbstractDefinitionParser.ParseDelegate", link:"java/org/mule/module/staticresources/config/AbstractDefinitionParser.ParseDelegate.html", type:"class" },
+      { id:12, label:"org.mule.module.staticresources.config.ServeDefinitionParser", link:"java/org/mule/module/staticresources/config/ServeDefinitionParser.html", type:"class" },
+      { id:13, label:"org.mule.module.staticresources.config.StaticResourcesModuleConfigDefinitionParser", link:"java/org/mule/module/staticresources/config/StaticResourcesModuleConfigDefinitionParser.html", type:"class" },
+      { id:14, label:"org.mule.module.staticresources.config.StaticResourcesNamespaceHandler", link:"java/org/mule/module/staticresources/config/StaticResourcesNamespaceHandler.html", type:"class" },
+      { id:15, label:"org.mule.module.staticresources.process", link:"java/org/mule/module/staticresources/process/package-summary.html", type:"package" },
+      { id:16, label:"org.mule.module.staticresources.process.NestedProcessorChain", link:"java/org/mule/module/staticresources/process/NestedProcessorChain.html", type:"class" },
+      { id:17, label:"org.mule.module.staticresources.process.ProcessCallbackProcessInterceptor", link:"java/org/mule/module/staticresources/process/ProcessCallbackProcessInterceptor.html", type:"class" },
+      { id:18, label:"org.mule.module.staticresources.processors", link:"java/org/mule/module/staticresources/processors/package-summary.html", type:"package" },
+      { id:19, label:"org.mule.module.staticresources.processors.AbstractExpressionEvaluator", link:"java/org/mule/module/staticresources/processors/AbstractExpressionEvaluator.html", type:"class" },
+      { id:20, label:"org.mule.module.staticresources.processors.AbstractListeningMessageProcessor", link:"java/org/mule/module/staticresources/processors/AbstractListeningMessageProcessor.html", type:"class" },
+      { id:21, label:"org.mule.module.staticresources.processors.AbstractMessageProcessor", link:"java/org/mule/module/staticresources/processors/AbstractMessageProcessor.html", type:"class" },
+      { id:22, label:"org.mule.module.staticresources.processors.ServeMessageProcessor", link:"java/org/mule/module/staticresources/processors/ServeMessageProcessor.html", type:"class" },
+      { id:23, label:"serve", link:"mule/static-resources-config.html#serve", type:"method" }
+
+    ];

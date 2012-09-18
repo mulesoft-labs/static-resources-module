@@ -1,0 +1,7 @@
+org.mule.module.staticresources
+org.mule.module.staticresources.adapters
+org.mule.module.staticresources.agents
+org.mule.module.staticresources.config
+org.mule.module.staticresources.process
+org.mule.module.staticresources.processors
+
